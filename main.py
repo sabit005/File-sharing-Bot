@@ -1,4 +1,4 @@
-from bot import Bot
+from bot import bot
 import asyncio
 
 if __name__ == "__main__":
